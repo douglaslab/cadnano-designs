@@ -1,2 +1,3 @@
 # cadnano-designs
-Cadnano json source files
+
+Cadnano JSON source files from [Douglas Lab publications](http://bionano.ucsf.edu/publications).
