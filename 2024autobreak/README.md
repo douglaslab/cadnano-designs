@@ -1,9 +1,10 @@
 # Contents 
 
-This archive contains Cadnano source files, scaffold sequences, and staples for all designs in the paper:
-- Cadnano designs with "_original" and "_redesign" suffixes correspond to the unoptimized and optimized designs described in the paper.
-- Cadnano designs with the "_prebroken" suffix do not have any staple breaks applied by the autobreak algorithm.
-- The "staples" subfolder contains "csv" and "xlsx" versions of the staple sequences for each design. The sequence contents are identical, but the xlsx files have stylized formatting to show the staple colors that correspond to the heatmap and thermodynamic plots in the paper.
+This archive contains Cadnano source files, scaffold sequences, and staples for all designs in this study:
+
+	Design principles for accurate folding of DNA origami
+	Tural Aksel, Erik J. Navarro, Nicholas Fong, Shawn M. Douglas
+	https://doi.org/10.1101/2024.03.18.585609
 
 
 ## Cadnano design files
